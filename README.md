@@ -1,6 +1,6 @@
 # slider
 
-> A Vue.js project
+>  vue 滑动验证
 
 ## Build Setup
 
