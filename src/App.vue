@@ -1,6 +1,6 @@
 <template>
   <div id="app" >
-    <h1>====滑动验证插件======</h1>
+    <h1>*******滑动验证插件********</h1>
     <slider id='slider'></slider>
   </div>
 </template>
