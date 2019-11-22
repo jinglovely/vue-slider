@@ -1,6 +1,6 @@
 <template>
   <div id="app" >
-    
+    <h1>====滑动验证插件======</h1>
     <slider id='slider'></slider>
   </div>
 </template>
@@ -34,12 +34,14 @@ export default {
   padding: 0 400px;
   
   height: 800px;
-
+ 
   
  
 }
 
-
+#app h1{
+  margin-top:100px;
+}
 #slider {
 
     margin-top:100px;
