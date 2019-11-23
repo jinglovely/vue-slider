@@ -1,7 +1,8 @@
 <template>
   <div id="app" >
-    <h1>=============滑动验证插件==========</h1>
+    <h1>========滑动验证插件======</h1>
     <slider id='slider'></slider>
+    <h1>=========================</h1>
   </div>
 </template>
 
@@ -26,6 +27,7 @@ export default {
   padding:0;
 }
 #app {
+  
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
